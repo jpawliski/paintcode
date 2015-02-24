@@ -4,10 +4,10 @@
     id        = "com.phonegap.example"
     version   = "1.0.0">
 
-<name>Icon and Splash Demo</name>
+<name>Paint Code</name>
 
 <description>
-Basic application to test and demonstrate icons and splash screens.
+This application helps automotive industry professionals locate vehicle paint code locations by manufacturer.
 </description>
 
 <author href="https://build.phonegap.com" email="shardeep@adobe.com">
